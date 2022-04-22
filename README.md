@@ -1,0 +1,1 @@
+# AWSSecretsManager-Gradle-Scala
